@@ -7,6 +7,7 @@ Color whiteColor = Color(0xffF9F7F7);
 Color primaryColor = Color(0xff112D4E);
 Color alertBackground = Color(0xffFFF3CD);
 Color yellowColor = Color(0xff856404);
+Color greyColor = Color(0xff9091A3);
 
 TextStyle darkTextStyle = GoogleFonts.poppins(color: primaryColor);
 TextStyle whiteTextStyle = GoogleFonts.poppins(color: whiteColor);
